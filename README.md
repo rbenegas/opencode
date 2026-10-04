@@ -1,4 +1,7 @@
-<p align="center">
+### AppSec Automation Context
+`opencode` is integrated into my continuous application security pipelines to drive automated remediation. Working in tandem with my local DeepSeek-R1 deployment and OpenCursor, I use this agent to automatically generate, test, and apply security fixes (autofix) for vulnerabilities identified by Checkmarx static application security testing (SAST) and software composition analysis (SCA).
+
+---<p align="center">
   <a href="https://opencode.ai">
     <picture>
       <source srcset="packages/console/app/src/asset/logo-ornate-dark.svg" media="(prefers-color-scheme: dark)">
